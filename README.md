@@ -3,5 +3,5 @@
 - Aprendendo Python
 - Cursando Economia
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeasl)](https://github.com/felipeasl/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeasl&show_icons=true&theme=vue-dark)
