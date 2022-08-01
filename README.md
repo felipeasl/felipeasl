@@ -3,10 +3,10 @@
 - Aprendendo Python
 - Cursando Economia
 
-</div align="center"
+<div align="center"
   <a href="https://github.com/felipeasl">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeasl&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeasl&layout=compact&langs_count=7&theme=vue-dark"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=felipeasl&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeasl&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
   
